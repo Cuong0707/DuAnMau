@@ -340,7 +340,7 @@ public class NhanVienJDialog extends javax.swing.JDialog {
         }
     }//GEN-LAST:event_tblNhanVienMouseClicked
     private void formWindowClosing(java.awt.event.WindowEvent evt) {                                   
-        System.exit(0);
+        
     } 
     /**
      * @param args the command line arguments

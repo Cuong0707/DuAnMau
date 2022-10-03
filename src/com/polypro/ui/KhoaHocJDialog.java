@@ -337,7 +337,7 @@ public class KhoaHocJDialog extends javax.swing.JDialog {
         this.chonChuyenDe();
     }//GEN-LAST:event_cboChuyenDeActionPerformed
     private void formWindowClosing(java.awt.event.WindowEvent evt) {                                   
-        System.exit(0);
+        
     } 
     /**
      * @param args the command line arguments

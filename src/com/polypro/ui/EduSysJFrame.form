@@ -423,7 +423,7 @@
             </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="3" name="/com/polypro/icon/trump-logo.png"/>
+              <Image iconType="3" name="/com/edusys/Icon/trump-logo.png"/>
             </Property>
             <Property name="horizontalTextPosition" type="int" value="0"/>
             <Property name="opaque" type="boolean" value="true"/>

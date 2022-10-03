@@ -400,7 +400,7 @@ public class NguoiHocJDialog extends javax.swing.JDialog {
         this.timKiem();
     }//GEN-LAST:event_btnTimKiemActionPerformed
     private void formWindowClosing(java.awt.event.WindowEvent evt) {                                   
-        System.exit(0);
+       
     } 
     /**
      * @param args the command line arguments

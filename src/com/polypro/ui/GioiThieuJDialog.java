@@ -84,7 +84,7 @@ public class GioiThieuJDialog extends javax.swing.JDialog {
     }//GEN-LAST:event_txtGioiThieuMouseClicked
 
     private void formWindowClosing(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowClosing
-        System.exit(0);
+        
     }//GEN-LAST:event_formWindowClosing
 
     /**

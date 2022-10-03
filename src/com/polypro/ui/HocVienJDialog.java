@@ -231,7 +231,7 @@ public class HocVienJDialog extends javax.swing.JDialog {
         this.fillTableNguoiHoc();
     }//GEN-LAST:event_txtTimKiemKeyReleased
     private void formWindowClosing(java.awt.event.WindowEvent evt) {                                   
-        System.exit(0);
+        
     } 
     /**
      * @param args the command line arguments

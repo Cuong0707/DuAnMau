@@ -178,7 +178,7 @@ public class EduSysJFrame extends javax.swing.JFrame {
 
         lblTrump.setBackground(new java.awt.Color(255, 255, 255));
         lblTrump.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblTrump.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/polypro/icon/trump-logo.png"))); // NOI18N
+        lblTrump.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/edusys/Icon/trump-logo.png"))); // NOI18N
         lblTrump.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
         lblTrump.setOpaque(true);
 

@@ -138,7 +138,7 @@ public class DoiMatKhauJDialog extends javax.swing.JDialog {
     }//GEN-LAST:event_btnDoiMatKhauActionPerformed
 
     private void formWindowClosing(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowClosing
-        System.exit(0);
+        
     }//GEN-LAST:event_formWindowClosing
 
     /**

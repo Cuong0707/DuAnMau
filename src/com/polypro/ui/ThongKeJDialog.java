@@ -257,7 +257,7 @@ public class ThongKeJDialog extends javax.swing.JDialog {
         fillTableDoanhThu();
     }//GEN-LAST:event_cboNamActionPerformed
     private void formWindowClosing(java.awt.event.WindowEvent evt) {                                   
-        System.exit(0);
+       
     } 
     /**
      * @param args the command line arguments

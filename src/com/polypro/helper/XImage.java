@@ -9,12 +9,10 @@ import java.nio.file.StandardCopyOption;
 import javax.swing.ImageIcon;
 
 public class XImage {
-    /**
-     * Ảnh biểu tượng của ứng dụng, xuất hiện trên mọi cửa sổ
-     */
     public static Image getAppIcon(){
-        String file = "/com/polypro/icon/fpt.png";
-        return new ImageIcon(XImage.class.getResource(file)).getImage();
+        String file = "src/com/polypro/icon/fpt.png";
+        return new ImageIcon("src/com/polypro/icon/fpt.png").getImage();
+//        return new ImageIcon(XImage.class.getResource(file)).getImage();
     }
     
     /**
